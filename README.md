@@ -1,4 +1,4 @@
-# 👋 Merhaba! Ben Eren Mengütaş
+# 👋 Merhaba! Ben Eren
 
 Ben bir QA (Quality Assurance) tutkunu olarak yazılım test alanında kariyer yapmaya odaklandım. Otomasyon testleri ile ilgileniyor, sürekli kendimi geliştiriyorum.
 
