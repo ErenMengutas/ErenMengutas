@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Eren Mengütaş
 
-<!--
-**ErenMengutas/ErenMengutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir QA (Quality Assurance) tutkunu olarak yazılım test alanında kariyer yapmaya odaklandım. Otomasyon testleri ile ilgileniyor, sürekli kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+## 💻 Hakkımda
+- 🎯 Hedefim: Profesyonel bir Test Otomasyon Mühendisi olmak
+- 🚀 Öğrendiklerim: Java, Selenium, Appium,Postman
+- 🧪 Otomasyon test konusunda deneyim kazanıyorum
+- 📚 Sürekli yeni teknolojiler öğrenmeye açığım
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Kullandığım Teknolojiler
+- 🖥️ **Java** – Test otomasyon projelerinde temel programlama dili
+- 🌐 **Selenium WebDriver** – Web uygulamaları için otomasyon testleri
+- 📱 **Appium** – Mobil uygulamalarda test otomasyonu
+- ☁️ Git & GitHub – Versiyon kontrol ve işbirliği
+- 🧪 TestNG, JUnit,Cucumber – Test framework'leri
